@@ -1,7 +1,7 @@
 {
   "gravelminer.toggleOn": "GravelMiner: ON",
   "gravelminer.toggleOff": "GravelMiner: OFF",
-  "key.categories.gravelminer": "GravelMiner",
+  "key.category.gravelminer.default": "GravelMiner",
   "key.gravelminer.toggle": "Toggle GravelMiner",
   "gravelminer.configuration.title": "GravelMiner",
   "gravelminer.configuration.common": "Common",
